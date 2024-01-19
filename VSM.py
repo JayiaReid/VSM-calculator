@@ -1,7 +1,7 @@
-#This is a program that calculates the mean, variance and standard devation of a given data set of positive numbers
+#This is a program that calculates the mean, variance and standard deviation of a given data set of positive numbers
 
 #introduction
-print("Hi there! Welcome to the Variance and Standard DEviation ft. mean Calculator!\n")
+print("Hi there! Welcome to the Variance and Standard Deviation ft. mean Calculator!\n")
 print("=============================================================================\n")
 
 # Get input from user
